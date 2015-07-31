@@ -1,0 +1,9 @@
+#Secrets#
+
+##About##
+
+Secrets is an app that allows users to post their secrets anonymously from anywhere in the world. Secrets aren't hidden behind a signup wall, so all secrets are available for anyone to view, copy and share. The app is intentionally not RESTful--secrets can be created and rendered, but they can't be updated or destroyed. In other words, be careful what you post--because it will be on "Secrets" forever!
+
+###Additional Info###
+
+Please feel free to fork or clone this projects, implement your own updates, or use it as a seed to create your own project.
